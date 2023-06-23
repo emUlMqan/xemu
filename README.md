@@ -1,1 +1,7 @@
-Please visit [https://xemu.app](https://xemu.app) for more information.
+# About Project
+
+Experimental port of the Xemu for android
+
+# Thanks
+
+[android-qemu](https://github.com/kunpengcompute/android-qemu/)
